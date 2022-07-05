@@ -1,4 +1,4 @@
-# Terraform template for AWS ECS/Fargate
+# Terraform template for AWS ECS/Fargate test from chris push to git hub
 
 This terraform setup can be used to setup the AWS infrastructure
 for a dockerized application running on ECS with Fargate launch
